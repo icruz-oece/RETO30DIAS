@@ -1,0 +1,23 @@
+{
+  "name": "reto30dias",
+  "version": "1.0.0",
+  "description": "Playwright - Reto 30 dias",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icruz-oece/RETO30DIAS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/icruz-oece/RETO30DIAS/issues"
+  },
+  "homepage": "https://github.com/icruz-oece/RETO30DIAS#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.61.0",
+    "@types/node": "^25.9.3"
+  }
+}
